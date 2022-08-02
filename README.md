@@ -174,25 +174,20 @@
         style="font-size:24px">Visitors</b>
 </p>
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" >
     <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
+        h1 {
+            color: red;
+            animation: mymove 2s infinite;
+        }
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
+        @keyframes mymove {
+            from {
+                color: red;
             }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
+            to {
+                color: yellow;
+            }
+        }
     </foreignObject>
 </svg>
