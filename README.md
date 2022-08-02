@@ -159,7 +159,9 @@
         src="https://github-readme-stats.vercel.app/api?username=iphearum&show_icons=true&locale=en" alt="iphearum" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&" alt="iphearum" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&" alt="iphearum" />
+</p>
 
 <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><b
