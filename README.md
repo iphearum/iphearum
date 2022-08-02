@@ -171,5 +171,5 @@
 </p>
 <p align="center">
     <h4 align="center" style="font-size:24px">Visitors</h4>
-    <img align="center" style="--color_fill: #000;" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" />
+    <p align="center"><img src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /></p>
 </p>
