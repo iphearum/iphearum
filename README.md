@@ -170,6 +170,6 @@
     </a>
 </p>
 <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><b
+    <img align="center" style="--color_fill: #000;" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><b
         style="font-size:24px">Visitors</b>
 </p>
