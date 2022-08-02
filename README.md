@@ -10,8 +10,6 @@
     </a>
 </p>
 
-![img](https://github-profile-trophy.vercel.app/?username=iphearum#thumbnail)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://fb.com/iphearum" target="blank"><img align="center"
