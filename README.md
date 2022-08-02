@@ -151,18 +151,24 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iphearum&show_icons=true&locale=en&layout=compact"
-        alt="iphearum" /></p>
 
-<p>&nbsp;<img align="center"
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=iphearum&show_icons=true&locale=en&layout=compact">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=iphearum&show_icons=true&locale=en&layout=compact"
+        alt="iphearum" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=iphearum&show_icons=true&locale=en">
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=iphearum&show_icons=true&locale=en" alt="iphearum" />
+    </a>
 </p>
 
 <p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&" alt="iphearum" />
+    </a>
 </p>
-
 <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><b
         style="font-size:24px">Visitors</b>
