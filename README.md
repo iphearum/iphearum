@@ -9,6 +9,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=iphearum" alt="iphearum" />
     </a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=iphearum)](https://github.com/iphearum)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
