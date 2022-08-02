@@ -153,19 +153,19 @@
 
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=iphearum&show_icons=true&locale=en&layout=compact">
+    <a _blank="true" href="https://github-readme-stats.vercel.app/api/top-langs?username=iphearum&show_icons=true&locale=en&layout=compact">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=iphearum&show_icons=true&locale=en&layout=compact"
         alt="iphearum" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=iphearum&show_icons=true&locale=en">
+    <a _blank="true" href="https://github-readme-stats.vercel.app/api?username=iphearum&show_icons=true&locale=en">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=iphearum&show_icons=true&locale=en" alt="iphearum" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&">
+    <a _blank="true" href="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&" alt="iphearum" />
     </a>
 </p>
@@ -173,3 +173,26 @@
     <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><b
         style="font-size:24px">Visitors</b>
 </p>
+
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
