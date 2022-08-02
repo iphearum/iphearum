@@ -173,21 +173,3 @@
     <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><b
         style="font-size:24px">Visitors</b>
 </p>
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" >
-    <foreignObject width="100%" height="100%">
-        h1 {
-            color: red;
-            animation: mymove 2s infinite;
-        }
-
-        @keyframes mymove {
-            from {
-                color: red;
-            }
-            to {
-                color: yellow;
-            }
-        }
-    </foreignObject>
-</svg>
