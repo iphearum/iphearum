@@ -22,5 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iphearum&" alt="iphearum" /></p>
 
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><h3>Visitor</h3>
+  <img align="center" src="https://profile-counter.glitch.me/iphearum/count.svg" alt="counter visited" /><span>Visitor</span>
 </p>
